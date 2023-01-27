@@ -1,0 +1,78 @@
+.home-div {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.home-div  h1 {
+  font-size: 20px;
+}
+
+.home-div  div {
+  margin-bottom: 30px;
+}
+
+.App-box {
+  text-align: center;
+}
+
+.App-box .number {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+  margin-top: 0;
+  border-bottom: 2px solid black;
+  display: inline-block;
+}
+
+.App-box .title {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+  padding-top: 100px;
+}
+
+.App-box .btn-box button{
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.Bingo-table table {
+  margin: 20px auto;
+}
+
+.Bingo-table table td {
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.choosing {
+  /* animation: change-color-anim .2s; */
+  background-color: pink;
+  color: white;
+}
+
+@keyframes change-color-anim {
+	0%,100%{
+		background-color: inherit;
+    color: black;
+	}
+	50%{
+		background-color: pink;
+    color: white;
+	}
+}
+
+.choosed {
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+}
+
+.btnFalse {
+  pointer-events: none !important;
+}
+
+
