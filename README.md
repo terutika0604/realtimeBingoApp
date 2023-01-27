@@ -13,7 +13,7 @@ DB:Mysql
 cd bingo-app-sever →　node app.jsでローカル起動
 
 
-##Demo
+## Demo
 
 ルーム作成
 
