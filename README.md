@@ -27,5 +27,6 @@ Master画面
 
 Children画面
 
-![image](https://user-images.githubusercontent.com/66721120/215015142-0fad0b98-4d7a-4bd9-b861-656deb579d1b.png)
+![image](https://user-images.githubusercontent.com/66721120/215650529-ea0eb285-6703-425c-869d-0e61a53cd096.png)
+
 
